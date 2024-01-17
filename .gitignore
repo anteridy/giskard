@@ -1,3 +1,6 @@
+#my ignores
+/big_files_folder
+
 enron_with_categories
 .history
 .mypy_cache
